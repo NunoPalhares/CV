@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Nuno Palhares contacts</title>
+</head>
+
+<body>
+  <h1>My Contacts</h1>
+  <h3><strong>My Email Address</strong></32>
+  <h3>helio.9@live.com.pt</h3>
+  <h3>+351 926355468 <strong>(Portugal)</strong></h3>
+  <h2><a href="https://twitter.com/9Helio">Twitter</a></h2>
+
+  <form>
+   <div class="emailBox">
+     <label for="emailAddress">E-mail address</label><br>
+     <input id="emailAddress" type="email" placeholder="username@gmail.com" pattern=".+@gmail.com"
+            list="defaultEmails" size="64" maxlength="256" multiple>
+
+
+            <datalist id="defaultEmails">
+  <option value="username@hotmail.com">
+  <option value="username@live.com.pt">
+  <option value="username@Gmail.com">
+  <option value="username@industries.org">
+  <option value="username@grrrrrrrr.arg">
+</datalist>
+   </div>
+
+   <div class="messageBox">
+     <label for="message">Request</label><br>
+     <textarea id="message" cols="80" rows="8" required
+               placeholder="write in me."></textarea>
+   </div>
+    <input type="submit" value="Send Request">
+  </form>
+</body>
+
+</html>

@@ -1,0 +1,122 @@
+body {
+  background-color: white;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #c7f2e3;
+  border-width: 15px;
+  width: 50%;
+  margin-top: 35%;
+  margin-bottom: 15%;
+  margin-left: 22%;
+  margin-right: 22%;
+}
+
+h1 {
+  color: #1fab89;
+margin-left: 3%;
+}
+
+h2 {
+  color: #1fab89;
+  margin-top: 15%;
+  margin-bottom: 5%;
+margin-left: 33%;
+
+}
+
+h3 {
+  color: #1fab89;
+  margin-top: 15%;
+  margin-bottom: 5%;
+margin-left: 40%;
+}
+
+table{
+  margin-left: 24%;
+  margin-right: 10%;
+}
+
+li {
+  margin-left: 24%;
+  margin-right: 10%;
+}
+
+p {
+  margin-left: 24%;
+  margin-right: 10%;
+}
+
+none1{
+  color: #1fab89;
+  font-size: 20px;
+  font-family: helvetica;
+
+}
+
+none2{
+  color: #1fab89;
+  font-size: 20px;
+  font-family: helvetica;
+
+}
+
+none{
+  color: #1fab89;
+  font-size: 20px;
+  font-family: helvetica;
+}
+/**********************************contacts class****************************************/
+
+
+.contacts {
+  font-size: 20px;
+  font-family: helvetica;
+    color: #1fab89;
+
+margin: 5%;
+}
+.Contactbody {
+  background-color: #c7f2e3;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.Date {
+  margin-bottom: 5%;
+}
+.name {
+    margin-bottom: 5%;
+}
+.emailBox {
+  margin-bottom: 5%;
+}
+
+.contactrule {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 15px;
+  width: 50%;
+  margin-top: 15%;
+  margin-bottom: 30%;
+  margin-left: 22%;
+  margin-right: 22%;
+}
+
+.contactsh1 {
+  font-size: 90px;
+  font-style: italic;
+  font-family: helvetica;
+  margin-bottom: 5%;
+  margin-left: 30%;
+}
